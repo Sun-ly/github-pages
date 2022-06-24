@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-这是我的播客主页
+这是我的博客主页
